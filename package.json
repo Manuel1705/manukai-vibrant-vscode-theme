@@ -1,0 +1,44 @@
+{
+	"name": "manukai-vibrant",
+	"displayName": "Manukai Vibrant",
+	"description": "A very dark and vibrant Manukai based theme.",
+	"version": "0.5.3",
+	"publisher": "manuel",
+	"icon": "images/icon.png",
+	"author": "Manuel Mignogna",
+	"license": "MIT",
+	"galleryBanner": {
+		"color": "#16171d",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Manuel1705/manukai-vibrant-vscode-theme"
+	},
+	"engines": {
+		"vscode": "^1.15.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"manukai",
+		"vibrant",
+		"dark",
+		"colorful"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Manukai Vibrant",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Manukai Vibrant-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1752083812058,
+		"targetPlatform": "undefined",
+		"size": 1181604
+	}
+}
